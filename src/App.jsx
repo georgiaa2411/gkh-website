@@ -35,7 +35,7 @@ const App = () => {
           <div className="container">
             <b>Thesis title: How should the law distinguish between personal and non-personal data for the purposes of accessing connected and automated vehicle ("CAV") data?</b>
             <p>Focusing on data protection law and CAV technologies, this research brings together two but important legal issues: the categorisation of data within the law, and accessing CAV data in a liability and insurance context.</p>
-            <p>Ultimately, this research argues that the categorisation of data in the law needs to moving away from the human-orientated in personam paramaters of 'personal' and 'non-personal' data.</p>
+            <p>Ultimately, this research argues that the categorisation of data in the law needs to move away from the human-orientated paramaters of 'personal' and 'non-personal' data.</p>
             <p>Improved categorisation will, in turn, facilitate appropriate and feasible data access regimes for the CAV industry. Addressing data access governance is imperative for CAV technologies given the increasing tensions between manufacturers and insurers for using CAV data for incident liability.</p>
           </div>
         )}
